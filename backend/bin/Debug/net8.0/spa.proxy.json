@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "D:\\chefsys\\Projetos\\KitchenFlow\\2\\Nova pasta\\backend",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

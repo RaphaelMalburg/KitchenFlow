@@ -1,0 +1,6 @@
+@backend_HostAddress = https://kitchenflowapi.azurewebsites.net
+
+GET {{backend_HostAddress}}/
+Accept: application/json
+
+###
